@@ -49,9 +49,12 @@ nav{
     font-size: 22px;
 }
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1024px){
     body{
         overflow-x: hidden;
+    }
+    .logo{
+        font-size: 60px;
     }
     .nav-links{
         position: absolute;
@@ -68,6 +71,9 @@ nav{
     }
     .nav-links li{
         opacity: 0;
+    }
+    .nav-links a{
+        font-size: 38px;
     }
     .burger{
         display: block;
