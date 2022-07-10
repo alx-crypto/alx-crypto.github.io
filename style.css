@@ -51,7 +51,7 @@ nav{
 
 @media screen and (max-width:1024px){
     html, body {
-        position:relative;
+        /*position:relative;*/
         overflow-x:hidden;
     }
     .logo{
