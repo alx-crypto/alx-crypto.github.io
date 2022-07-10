@@ -50,8 +50,8 @@ nav{
 }
 
 @media screen and (max-width:1024px){
-    body{
-        overflow: hidden!important;
+    body, html{
+        overflow-x: hidden;
     }
     .logo{
         font-size: 60px;
