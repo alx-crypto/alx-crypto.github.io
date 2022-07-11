@@ -50,7 +50,7 @@ nav{
 }
 
 @media screen and (max-width:1024px){
-    html, body {
+    body {
         /*position:relative;*/
         overflow-x:hidden;
     }
@@ -63,7 +63,7 @@ nav{
         height: 92vh;
         top: 8vh;
         background-color: darkcyan;
-        display: flex;
+        /*display: flex;*/
         flex-direction: column;
         align-items: center;
         width: 50%;
