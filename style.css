@@ -98,7 +98,7 @@ nav{
     }
 }
 
-@keyframes navPanelFade{
+/*@keyframes navPanelFade{
     from{
         opacity: 0;
         transform: translateX(50px);
@@ -107,7 +107,7 @@ nav{
         opacity: 1;
         transform: translateX(0px);
     }
-}
+}*/
 
 .start-page{
     padding: 2%;
