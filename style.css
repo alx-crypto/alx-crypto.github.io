@@ -80,6 +80,13 @@ nav{
     .burger{
         display: block;
     }
+    .main-headline{
+        font-size: 38px;
+    }
+    
+    .main-article{
+        font-size: 32px;
+    }
 }
 
 .nav-active{
