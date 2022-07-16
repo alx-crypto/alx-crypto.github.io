@@ -133,6 +133,11 @@ nav{
     font-size: 28px;
 }
 
+.main-article a{
+    color: red;
+    text-decoration: none;
+}
+
 .home-image{
     padding: 0%;
     display: flex;
@@ -151,5 +156,27 @@ footer{
 }
 
 .seperator{
-    padding: 15%;
+    padding: 7%;
+}
+
+.quick-summary{
+    padding: 2%;
+    font-size: 28px;
+}
+
+.image-class{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.image-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1600%;
+    background-color: rgba(71, 71, 71, 0.7);
+    border-radius: 0.2em;
+    padding: 0.2em;
 }
